@@ -1,0 +1,20 @@
+# Cursor AI Rules (.cursorrules)
+
+## Project Context
+- This repository is a collection of AI and programming language rules.
+- Maintain consistency across all markdown files.
+
+## Coding Standards
+- Use modern syntax for all languages.
+- Prefer functional programming patterns where applicable.
+- Ensure all code examples are runnable and follow best practices.
+
+## AI Behavior
+- Be proactive but follow the defined structure.
+- Always check the `languages/` directory for language-specific rules before generating code.
+- Always check the `prompts/global_rules.md` for security and communication guidelines.
+
+## File Organization
+- New language rules go into `languages/[language].md`.
+- New tool rules go into `tools/[tool]/`.
+- Global prompts go into `prompts/`.

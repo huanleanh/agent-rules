@@ -1,0 +1,10 @@
+# Windsurf AI Rules (.windsurfrules)
+
+## Flow
+- Use the Flow feature to maintain context across many files.
+- Ensure all rules are documented in the `languages/` folder.
+
+## Best Practices
+- Keep changes minimal and focused.
+- Provide clear explanations for every modification.
+- Follow the global rules in `prompts/global_rules.md`.
